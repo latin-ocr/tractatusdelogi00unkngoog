@@ -1,0 +1,46 @@
+de Logicm 85
+
+‚possibiiis vero pro determinato aliquo numero unus
+ocum-rit ε est igitur probabilitas pro determinato
+
+nodam numero ad certitudinem ut 1 ad 6. In
+
+nebus aleis undique notatis casus possibiles omnes
+sunt 36 3 pro determinato vero numero v. g.-pro 4,
+occurrunt 5 casus ε ergo est probabilitas uno jactu
+obtinendi numerum 4 ad certitudinem ut 5 ad 56. ·
+
+COROLLARIUM
+
+242. Numerus casuum quibus indicia cum
+veritate propositionis conjuncta non sunt, est nu·-
+merus casuum quibus indicia coniuncta sunt cum
+veritate contradictoriae ejusdem. Est igitur proba-
+-hilitas propositionis ad probabilitatem contradic-
+torioe eiusdem ‚ ut numerus casuum quibus indicia
+cum veritate conjuncta sunt ‚ ad numerum casuum
+
+quibus eadem indicia cum veritate conjuncta non
+sunt.
+
+245. Numerus cas‘uum quibus indicia cum ve-
+ritate conjuncta sunt. a osteriori determinatur,
+dum per experientiam -deiinitur quoties ex numero
+casuum quamplurimorum (omnes enirn casus er
+ex erientiam investigare impossibile est) quifius
+ead'em ‚ ‘quae nunc, adsunt indicia seu adjuncta ‚
+determinatus effectus secutus fuerit. Sic si ex loo
+observationibus mihi constet vespertinae coeli ru-
+bedini nonagies serenitatem diei se uentis suc-
+cessisse, erit probabilitas serenitatis iei sequentis “
+ad certitudinem ut 90 ad loo ‚ adeoque ad proba·-
+bilitatem contradictoriae ejus ut 90 ad ιο.
+
+sivero ex quatuor tantum observationibus con-
+’ staret ter eumdem effectum.secutum fuisse3 male
+inferres probabilitatem serenitatia' diei sequentis
+esse ad certitudinem ut 5 ad 4. · ·
+
+244. Igitur probabilitas futuri eventus non in-
+fringitur per exceptionem alicujus casus speciali55
+
